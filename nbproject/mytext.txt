@@ -1,0 +1,4 @@
+Hi all today Im going to demontsrate how we can use serial ports with java 
+We will first start by using serial ports on our local machine and while also compiling this locally 
+
+If not then we will see this 
